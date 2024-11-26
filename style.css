@@ -31,10 +31,8 @@ body{
     display: none;
 }
 model-viewer {
-    margin: 0; /* Remove any default margins */
-    padding: 0; /* Remove any default padding */
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
 }
 
 /* navbar */
