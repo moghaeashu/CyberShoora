@@ -34,9 +34,8 @@ body{
 model-viewer {
     margin: 0; /* Remove any default margins */
     padding: 0; /* Remove any default padding */
-    box-sizing: border-box;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     border: none; /* Ensure no border is applied */
 }
 
