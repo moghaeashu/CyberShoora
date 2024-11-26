@@ -24,6 +24,7 @@ body{
     background: rgba(255, 255, 255, 0.8); /* Light blur effect */
     backdrop-filter: blur(10px); /* Applies the blur to the background */
     z-index: 9999; /* Ensures it's above other content */
+    overflow: hidden;
 }
 
 /* Hide the loader when not needed */
@@ -35,8 +36,7 @@ model-viewer {
     padding: 0; /* Remove any default padding */
     box-sizing: border-box;
     width: 300px;
-    height: 300px;
-    transform: rotateX(45deg);
+    height: 305px;
 }
 
 /* navbar */
