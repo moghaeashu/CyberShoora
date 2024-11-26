@@ -37,6 +37,8 @@ model-viewer {
     width: 350px;
     height: 350px;
     border: none; /* Ensure no border is applied */
+    box-shadow: none;
+    outline: none;
 }
 
 /* navbar */
